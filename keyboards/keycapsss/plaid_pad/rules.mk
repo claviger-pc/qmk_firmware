@@ -2,7 +2,7 @@
 MCU = atmega328p
 
 # Bootloader selection
-BOOTLOADER = usbasploader
+BOOTLOADER = USBasp
 
 # Build Options
 #   change yes to no to disable
